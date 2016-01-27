@@ -1,0 +1,28 @@
+name: gorkym
+favicon: null
+layout_spectrum: 0.7087102495133877
+typography_spectrum: 0.34015207923948765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7389254688750952
+  lightness: 0.41872946987859905
+  saturation: 0.4113699006848037
+  rhythmicContrast: 0.9289982181508094
+purpose: []
